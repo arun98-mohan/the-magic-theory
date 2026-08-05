@@ -12,6 +12,7 @@ unique-visitor results per experiment variant.
 | `GET` | `/api/experiments` | List experiments |
 | `POST` | `/api/events` | Ingest one event or an array of events |
 | `GET` | `/api/experiments/{id}/results` | Per-variant exposed / conversions / conversion_rate |
+| `GET` | `/api/experiments/{id}/summary` | Short plain-language AI summary of the results (`source: "llm"`); degrades to a locally computed summary (`source: "fallback"`) if the model is unavailable or misbehaves |
 | `GET` | `/health` | Liveness + DB connectivity |
 
 Swagger UI at `/swagger-ui.html`.
@@ -66,3 +67,4 @@ Set these variables on the **web service** (link them from the Postgres plugin):
 | `DATABASE_USERNAME` | `${{Postgres.PGUSER}}` |
 | `DATABASE_PASSWORD` | `${{Postgres.PGPASSWORD}}` |
 | `API_KEY` | a strong random key, e.g. from `openssl rand -hex 32` |
+| `GEMINI_API_KEY` | Gemini API key (optional; summary endpoint falls back gracefully without it) |
