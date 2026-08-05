@@ -1,0 +1,14 @@
+target/
+
+### IDE ###
+.idea/
+*.iml
+*.iws
+.vscode/
+
+### macOS ###
+.DS_Store
+
+### Env / local secrets ###
+.env
+src/main/resources/application-local.properties
