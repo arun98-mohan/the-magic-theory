@@ -1,0 +1,1042 @@
+[
+  {
+    "event_id": "e0074",
+    "visitor_id": "v2c02",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "conversion",
+    "timestamp": "2025-11-01T19:18:00Z"
+  },
+  {
+    "event_id": "e0030",
+    "visitor_id": "v1b04",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:40:00Z"
+  },
+  {
+    "event_id": "e0113",
+    "visitor_id": "v2t01",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:35:00Z"
+  },
+  {
+    "event_id": "e0076",
+    "visitor_id": "v2t01",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:50:00Z"
+  },
+  {
+    "event_id": "e0019",
+    "visitor_id": "v1a18",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:52:00Z"
+  },
+  {
+    "event_id": "e0052",
+    "visitor_id": "v1b04",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T20:33:00Z"
+  },
+  {
+    "event_id": "e0091",
+    "visitor_id": "v2t16",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:12:00Z"
+  },
+  {
+    "event_id": "e0023",
+    "visitor_id": "v1a02",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:43:00Z"
+  },
+  {
+    "event_id": "e0008",
+    "visitor_id": "v1a07",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:14:00Z"
+  },
+  {
+    "event_id": "e0078",
+    "visitor_id": "v2t03",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:53:00Z"
+  },
+  {
+    "event_id": "e0096",
+    "visitor_id": "v2t03",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:42:00Z"
+  },
+  {
+    "event_id": "e0081",
+    "visitor_id": "v2t06",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:49:00Z"
+  },
+  {
+    "event_id": "e0003",
+    "visitor_id": "v1a02",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:42:00Z"
+  },
+  {
+    "event_id": "e0058",
+    "visitor_id": "v2c01",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:02:00Z"
+  },
+  {
+    "event_id": "e0119",
+    "visitor_id": "v2t00",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T23:58:00Z"
+  },
+  {
+    "event_id": "e0024",
+    "visitor_id": "v1a03",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T19:55:00Z"
+  },
+  {
+    "event_id": "e0086",
+    "visitor_id": "v2t11",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:36:00Z"
+  },
+  {
+    "event_id": "e0021",
+    "visitor_id": "v1a00",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:34:00Z"
+  },
+  {
+    "event_id": "e0069",
+    "visitor_id": "v2c12",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:40:00Z"
+  },
+  {
+    "event_id": "e0073",
+    "visitor_id": "v2c01",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:30:00Z"
+  },
+  {
+    "event_id": "e0104",
+    "visitor_id": "v1a03",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:21:00Z"
+  },
+  {
+    "event_id": "e0041",
+    "visitor_id": "v1b15",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:17:00Z"
+  },
+  {
+    "event_id": "e0080",
+    "visitor_id": "v2t05",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:02:00Z"
+  },
+  {
+    "event_id": "e0116",
+    "visitor_id": "v1b00",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:27:00Z"
+  },
+  {
+    "event_id": "e0065",
+    "visitor_id": "v2c08",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:33:00Z"
+  },
+  {
+    "event_id": "e0111",
+    "visitor_id": "v1b04",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:19:00Z"
+  },
+  {
+    "event_id": "e0013",
+    "visitor_id": "v1a12",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:38:00Z"
+  },
+  {
+    "event_id": "e0016",
+    "visitor_id": "v1a15",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:07:00Z"
+  },
+  {
+    "event_id": "e0063",
+    "visitor_id": "v2c06",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:33:00Z"
+  },
+  {
+    "event_id": "e0120",
+    "visitor_id": "v2t01",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T22:23:00Z"
+  },
+  {
+    "event_id": "e0047",
+    "visitor_id": "v1b21",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:08:00Z"
+  },
+  {
+    "event_id": "e0067",
+    "visitor_id": "v2c10",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:44:00Z"
+  },
+  {
+    "event_id": "e0045",
+    "visitor_id": "v1b19",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:49:00Z"
+  },
+  {
+    "event_id": "e0017",
+    "visitor_id": "v1a16",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:53:00Z"
+  },
+  {
+    "event_id": "e0020",
+    "visitor_id": "v1a19",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:12:00Z"
+  },
+  {
+    "event_id": "e0040",
+    "visitor_id": "v1b14",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:28:00Z"
+  },
+  {
+    "event_id": "e0117",
+    "visitor_id": "v1b01",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T18:37:00Z"
+  },
+  {
+    "event_id": "e0049",
+    "visitor_id": "v1b01",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T18:04:00Z"
+  },
+  {
+    "event_id": "e0036",
+    "visitor_id": "v1b10",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:18:00Z"
+  },
+  {
+    "event_id": "e0035",
+    "visitor_id": "v1b09",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:40:00Z"
+  },
+  {
+    "event_id": "e0083",
+    "visitor_id": "v2t08",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:09:00Z"
+  },
+  {
+    "event_id": "e0066",
+    "visitor_id": "v2c09",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:45:00Z"
+  },
+  {
+    "event_id": "e0062",
+    "visitor_id": "v2c05",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:23:00Z"
+  },
+  {
+    "event_id": "e0027",
+    "visitor_id": "v1b01",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:22:00Z"
+  },
+  {
+    "event_id": "e0006",
+    "visitor_id": "v1a05",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:37:00Z"
+  },
+  {
+    "event_id": "e0109",
+    "visitor_id": "v1b02",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:06:00Z"
+  },
+  {
+    "event_id": "e0029",
+    "visitor_id": "v1b03",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:15:00Z"
+  },
+  {
+    "event_id": "e0042",
+    "visitor_id": "v1b16",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:50:00Z"
+  },
+  {
+    "event_id": "e0108",
+    "visitor_id": "v1b01",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:51:00Z"
+  },
+  {
+    "event_id": "e0064",
+    "visitor_id": "v2c07",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:31:00Z"
+  },
+  {
+    "event_id": "e0105",
+    "visitor_id": "v1a04",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:11:00Z"
+  },
+  {
+    "event_id": "e0100",
+    "visitor_id": "v2t07",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T20:19:00Z"
+  },
+  {
+    "event_id": "e0077",
+    "visitor_id": "v2t02",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:21:00Z"
+  },
+  {
+    "event_id": "e0114",
+    "visitor_id": "v2t02",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:47:00Z"
+  },
+  {
+    "event_id": "e0048",
+    "visitor_id": "v1b00",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T20:32:00Z"
+  },
+  {
+    "event_id": "e0121",
+    "visitor_id": "v1a19",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-04T20:20:00Z"
+  },
+  {
+    "event_id": "e0051",
+    "visitor_id": "v1b03",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T18:20:00Z"
+  },
+  {
+    "event_id": "e0019",
+    "visitor_id": "v1a18",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:52:00Z"
+  },
+  {
+    "event_id": "e0025",
+    "visitor_id": "v1a04",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T19:15:00Z"
+  },
+  {
+    "event_id": "e0087",
+    "visitor_id": "v2t12",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:38:00Z"
+  },
+  {
+    "event_id": "e0001",
+    "visitor_id": "v1a00",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:39:00Z"
+  },
+  {
+    "event_id": "e0075",
+    "visitor_id": "v2t00",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:19:00Z"
+  },
+  {
+    "event_id": "e0046",
+    "visitor_id": "v1b20",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:29:00Z"
+  },
+  {
+    "event_id": "e0058",
+    "visitor_id": "v2c01",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:02:00Z"
+  },
+  {
+    "event_id": "e0061",
+    "visitor_id": "v2c04",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:28:00Z"
+  },
+  {
+    "event_id": "e0088",
+    "visitor_id": "v2t13",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:52:00Z"
+  },
+  {
+    "event_id": "e0015",
+    "visitor_id": "v1a14",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:47:00Z"
+  },
+  {
+    "event_id": "e0099",
+    "visitor_id": "v2t06",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T18:28:00Z"
+  },
+  {
+    "event_id": "e0011",
+    "visitor_id": "v1a10",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:06:00Z"
+  },
+  {
+    "event_id": "e0095",
+    "visitor_id": "v2t02",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:41:00Z"
+  },
+  {
+    "event_id": "e0032",
+    "visitor_id": "v1b06",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:34:00Z"
+  },
+  {
+    "event_id": "e0056",
+    "visitor_id": "v1b08",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:47:00Z"
+  },
+  {
+    "event_id": "e0090",
+    "visitor_id": "v2t15",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:51:00Z"
+  },
+  {
+    "event_id": "e0043",
+    "visitor_id": "v1b17",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:16:00Z"
+  },
+  {
+    "event_id": "e0018",
+    "visitor_id": "v1a17",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:17:00Z"
+  },
+  {
+    "event_id": "e0004",
+    "visitor_id": "v1a03",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:08:00Z"
+  },
+  {
+    "event_id": "e0107",
+    "visitor_id": "v1b00",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:55:00Z"
+  },
+  {
+    "event_id": "e0037",
+    "visitor_id": "v1b11",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:01:00Z"
+  },
+  {
+    "event_id": "e0007",
+    "visitor_id": "v1a06",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:36:00Z"
+  },
+  {
+    "event_id": "e0115",
+    "visitor_id": "v2t03",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:23:00Z"
+  },
+  {
+    "event_id": "e0094",
+    "visitor_id": "v2t01",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T20:57:00Z"
+  },
+  {
+    "event_id": "e0005",
+    "visitor_id": "v1a04",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:03:00Z"
+  },
+  {
+    "event_id": "e0039",
+    "visitor_id": "v1b13",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:36:00Z"
+  },
+  {
+    "event_id": "e0092",
+    "visitor_id": "v2t17",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:16:00Z"
+  },
+  {
+    "event_id": "e0055",
+    "visitor_id": "v1b07",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T17:10:00Z"
+  },
+  {
+    "event_id": "e0110",
+    "visitor_id": "v1b03",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:53:00Z"
+  },
+  {
+    "event_id": "e0101",
+    "visitor_id": "v1a00",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:28:00Z"
+  },
+  {
+    "event_id": "e0022",
+    "visitor_id": "v1a01",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:23:00Z"
+  },
+  {
+    "event_id": "e0082",
+    "visitor_id": "v2t07",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:55:00Z"
+  },
+  {
+    "event_id": "e0093",
+    "visitor_id": "v2t00",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:34:00Z"
+  },
+  {
+    "event_id": "e0009",
+    "visitor_id": "v1a08",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:31:00Z"
+  },
+  {
+    "event_id": "e0053",
+    "visitor_id": "v1b05",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:23:00Z"
+  },
+  {
+    "event_id": "e0102",
+    "visitor_id": "v1a01",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:22:00Z"
+  },
+  {
+    "event_id": "e0079",
+    "visitor_id": "v2t04",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:23:00Z"
+  },
+  {
+    "event_id": "e0096",
+    "visitor_id": "v2t03",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:42:00Z"
+  },
+  {
+    "event_id": "e0076",
+    "visitor_id": "v2t01",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:50:00Z"
+  },
+  {
+    "event_id": "e0085",
+    "visitor_id": "v2t10",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:37:00Z"
+  },
+  {
+    "event_id": "e0044",
+    "visitor_id": "v1b18",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:05:00Z"
+  },
+  {
+    "event_id": "e0098",
+    "visitor_id": "v2t05",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T17:41:00Z"
+  },
+  {
+    "event_id": "e0057",
+    "visitor_id": "v2c00",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:07:00Z"
+  },
+  {
+    "event_id": "e0002",
+    "visitor_id": "v1a01",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:28:00Z"
+  },
+  {
+    "event_id": "e0103",
+    "visitor_id": "v1a02",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:33:00Z"
+  },
+  {
+    "event_id": "e0054",
+    "visitor_id": "v1b06",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T19:42:00Z"
+  },
+  {
+    "event_id": "e0013",
+    "visitor_id": "v1a12",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:38:00Z"
+  },
+  {
+    "event_id": "e0033",
+    "visitor_id": "v1b07",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:29:00Z"
+  },
+  {
+    "event_id": "e0031",
+    "visitor_id": "v1b05",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:03:00Z"
+  },
+  {
+    "event_id": "e0050",
+    "visitor_id": "v1b02",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:18:00Z"
+  },
+  {
+    "event_id": "e0106",
+    "visitor_id": "v1a05",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:23:00Z"
+  },
+  {
+    "event_id": "e0070",
+    "visitor_id": "v2c13",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:58:00Z"
+  },
+  {
+    "event_id": "e0089",
+    "visitor_id": "v2t14",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:41:00Z"
+  },
+  {
+    "event_id": "e0022",
+    "visitor_id": "v1a01",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:23:00Z"
+  },
+  {
+    "event_id": "e0084",
+    "visitor_id": "v2t09",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:27:00Z"
+  },
+  {
+    "event_id": "e0068",
+    "visitor_id": "v2c11",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T13:26:00Z"
+  },
+  {
+    "event_id": "e0072",
+    "visitor_id": "v2c00",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "conversion",
+    "timestamp": "2025-11-01T16:22:00Z"
+  },
+  {
+    "event_id": "e0014",
+    "visitor_id": "v1a13",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T11:16:00Z"
+  },
+  {
+    "event_id": "e0012",
+    "visitor_id": "v1a11",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T15:11:00Z"
+  },
+  {
+    "event_id": "e0028",
+    "visitor_id": "v1b02",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:21:00Z"
+  },
+  {
+    "event_id": "e0038",
+    "visitor_id": "v1b12",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:08:00Z"
+  },
+  {
+    "event_id": "e0059",
+    "visitor_id": "v2c02",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:49:00Z"
+  },
+  {
+    "event_id": "e0112",
+    "visitor_id": "v2t00",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:29:00Z"
+  },
+  {
+    "event_id": "e0122",
+    "visitor_id": "v2c14",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-04T20:20:00Z"
+  },
+  {
+    "event_id": "e0026",
+    "visitor_id": "v1b00",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:10:00Z"
+  },
+  {
+    "event_id": "e0071",
+    "visitor_id": "v2c14",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T09:58:00Z"
+  },
+  {
+    "event_id": "e0060",
+    "visitor_id": "v2c03",
+    "experiment_id": "EXP-2",
+    "variant": "control",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:45:00Z"
+  },
+  {
+    "event_id": "e0034",
+    "visitor_id": "v1b08",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "exposure",
+    "timestamp": "2025-11-01T10:45:00Z"
+  },
+  {
+    "event_id": "e0010",
+    "visitor_id": "v1a09",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T12:03:00Z"
+  },
+  {
+    "event_id": "e0005",
+    "visitor_id": "v1a04",
+    "experiment_id": "EXP-1",
+    "variant": "A",
+    "type": "exposure",
+    "timestamp": "2025-11-01T14:03:00Z"
+  },
+  {
+    "event_id": "e0050",
+    "visitor_id": "v1b02",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T21:18:00Z"
+  },
+  {
+    "event_id": "e0118",
+    "visitor_id": "v1b02",
+    "experiment_id": "EXP-1",
+    "variant": "B",
+    "type": "conversion",
+    "timestamp": "2025-11-01T15:48:00Z"
+  },
+  {
+    "event_id": "e0097",
+    "visitor_id": "v2t04",
+    "experiment_id": "EXP-2",
+    "variant": "treatment",
+    "type": "conversion",
+    "timestamp": "2025-11-01T19:52:00Z"
+  }
+]
