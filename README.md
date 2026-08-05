@@ -16,18 +16,31 @@ unique-visitor results per experiment variant.
 
 Swagger UI at `/swagger-ui.html`.
 
+### Authentication
+
+All `/api/**` endpoints require an API key in the `X-API-Key` header (the key
+is provided separately, never committed to this repository):
+
+```bash
+curl -H "X-API-Key: $API_KEY" $BASE/api/experiments
+```
+
+In Swagger UI, click **Authorize** and paste the key. `/health` and the
+Swagger/OpenAPI docs are intentionally open.
+
 ### Load the sample data
 
 ```bash
 BASE=http://localhost:8080
-curl -X POST $BASE/api/experiments -H 'Content-Type: application/json' \
+KEY=local-dev-key
+curl -X POST $BASE/api/experiments -H "X-API-Key: $KEY" -H 'Content-Type: application/json' \
   -d '{"id":"EXP-1","name":"Homepage hero test","variants":["A","B"]}'
-curl -X POST $BASE/api/experiments -H 'Content-Type: application/json' \
+curl -X POST $BASE/api/experiments -H "X-API-Key: $KEY" -H 'Content-Type: application/json' \
   -d '{"id":"EXP-2","name":"Checkout button test","variants":["control","treatment"]}'
-curl -X POST $BASE/api/events -H 'Content-Type: application/json' \
+curl -X POST $BASE/api/events -H "X-API-Key: $KEY" -H 'Content-Type: application/json' \
   --data-binary @data/sample-events.json
-curl $BASE/api/experiments/EXP-1/results
-curl $BASE/api/experiments/EXP-2/results
+curl -H "X-API-Key: $KEY" $BASE/api/experiments/EXP-1/results
+curl -H "X-API-Key: $KEY" $BASE/api/experiments/EXP-2/results
 ```
 
 Loading the file again is harmless: every event is deduplicated by `event_id`.
@@ -52,3 +65,4 @@ Set these variables on the **web service** (link them from the Postgres plugin):
 | `DATABASE_JDBC_URL` | `jdbc:postgresql://${{Postgres.PGHOST}}:${{Postgres.PGPORT}}/${{Postgres.PGDATABASE}}` |
 | `DATABASE_USERNAME` | `${{Postgres.PGUSER}}` |
 | `DATABASE_PASSWORD` | `${{Postgres.PGPASSWORD}}` |
+| `API_KEY` | a strong random key, e.g. from `openssl rand -hex 32` |
